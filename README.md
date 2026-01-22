@@ -23,3 +23,5 @@ A standalone Python GUI application implementing a two-player Connect 4 game wit
    ```bash
    python connect4.py
 
+## Screenshots
+Screenshots of the application interface can be found in the `/Connect4 Screenshots` folder.
